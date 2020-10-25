@@ -1,1 +1,1 @@
-# NinJump
+"NinJump" is a 2D Endless Jump game(Aka DOODLE JUMP clone). A player needs to jump to the upper platform to gain a score. There is 3 Type of platform in this game, The first one is the Blown platform, It's a normal platform with no special ability. The next one is the Grey platform if you jump on them the platform disappears. And the final one is the Red platform this platform is double your jumping ability.
