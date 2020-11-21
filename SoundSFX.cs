@@ -8,10 +8,10 @@ public class SoundSFX : MonoBehaviour
 
     private void Start()
     {
-        SFX = GetComponent<AudioSource>();
+        SFX = GetComponent<AudioSource>(); // access AudioSource GetComponent
     }
     void PlaySFX()
     {
-        SFX.Play();
+        SFX.Play(); // play SFX
     }
 }
